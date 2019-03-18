@@ -1,0 +1,1 @@
+LWJGLのVertexShaderとFragmentShaderをScalaの中で書くためのライブラリです。
